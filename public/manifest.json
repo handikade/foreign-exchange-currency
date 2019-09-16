@@ -1,6 +1,6 @@
 {
-  "name": "shopee-test",
-  "short_name": "shopee-test",
+  "name": "Foreign Exchange Currency",
+  "short_name": "Currency",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -16,5 +16,5 @@
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#4DBA87"
+  "theme_color": "#EC008C"
 }
