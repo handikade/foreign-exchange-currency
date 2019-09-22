@@ -1,4 +1,4 @@
-# shopee-test
+# foreign-exchange-currency
 
 ## Project setup
 ```
